@@ -2,7 +2,7 @@
 
 <h3><b><u>Deploy this project instantly</u></b></h3>
 
-<a href="https://launch.nife.io/deploy-app/start?repository-url=https://github.com/nifetency/docker-hello-world-spring-boot">
+<a href="https://launch.nife.io/deploy-app/start?repository-url=https://github.com/nife-public/docker-hello-world-spring-boot">
   <img
     src="https://launch.nife.io/deploy-on-nife.svg"
     alt="Deploy on NIFE"
@@ -65,7 +65,7 @@ Before running this project, make sure the following tools are available.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/nifetency/docker-hello-world-spring-boot.git
+git clone https://github.com/nife-public/docker-hello-world-spring-boot.git
 cd docker-hello-world-spring-boot
 ```
 
@@ -212,4 +212,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 [1]: https://nife.io "Nife.io"
 [2]: https://docs.nife.io/Quick-Start/Nifectl "Nifectl Quick Start"
-[3]: https://github.com/nifetency/docker-hello-world-spring-boot "nifetency/docker-hello-world-spring-boot"
+[3]: https://github.com/nife-public/docker-hello-world-spring-boot "nifetency/docker-hello-world-spring-boot"
